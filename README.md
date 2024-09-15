@@ -10,9 +10,9 @@ Soy un **programador web** especializado en el **backend**. Me apasiona crear so
 
 ## Proyectos Destacados
 
-1. **Proyecto 1**: Descripción breve del proyecto.
-2. **Proyecto 2**: Descripción breve del proyecto.
-3. **Proyecto 3**: Descripción breve del proyecto.
+1. **App de gestion**
+2. **Desarrollo de chatbot**
+3. **Asistente virtual ai**
 
 ## Contacto
 
